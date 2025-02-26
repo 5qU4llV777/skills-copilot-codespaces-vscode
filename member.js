@@ -41,7 +41,6 @@ function skillsMember() {
             { name: 'Docker', value: 70 },
             { name: 'Kubernetes', value: 70 },
             { name: 'Kubernetes', value: 70 },
-        }
+        ]
     }
 }
-       
